@@ -1,5 +1,5 @@
 {
   "outputDirectory": "dist",
   "buildCommand": "npm run build",
-  "installCommand": "pnpm i --frozen-lockfile"
+  "installCommand": "pnpm i"
 }
